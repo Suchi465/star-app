@@ -1,0 +1,80 @@
+.formControl
+{
+  text-align: center;
+  margin-top: 1px;
+  
+}
+.editProfileInside1
+{
+  
+  padding: 25px;
+  text-align: left;
+  margin-left: 400px;
+  position: relative;
+  
+ 
+}
+.editlbl1{
+    position: absolute;
+    bottom: 45px;
+    left: 30px;
+}
+
+
+.editIp1
+{
+    position: absolute;
+    top:30px;
+  font-size: 16px;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid brown;
+  width: 50%;
+
+
+}
+
+.error5{
+  position: absolute;
+  font-size: 12px;
+  right: 420px;
+  top:73px;
+  
+  color: red;
+}
+.errorIp{
+  border: 1px solid red;
+  
+}
+.submitbtn1
+{
+  position: absolute;
+  left: 475px;
+  width: 25%;
+  padding: 10px;
+  font-size: 16px;
+  color: rgb(72, 33, 92);
+  background-color:rgb(152, 139, 139)
+}
+i{
+    -webkit-text-stroke: 1px rgba(222, 221, 206, 0.976);
+     padding: 15px;
+     margin-left: 640px;
+
+  }
+.image{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 1px solid rgb(255, 170, 0);
+    background-color:rgba(222, 227, 211, 0.91);
+    margin-left: 580px;
+    margin-top:20px;
+  }
+  
+.profileImg{
+    width: 150px;
+    border-radius: 100%;
+      
+}
+

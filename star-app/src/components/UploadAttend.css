@@ -1,0 +1,29 @@
+.uploadtr { visibility: collapse; }
+.left-margin2{
+  
+       
+        width: 450px;
+        height: 400px;
+        text-align: center;
+        margin: auto;
+        margin-top: 50px;
+        border: 1px solid black;
+        padding: 20px;
+        border-radius: 10px;
+}
+.input-attend{
+    margin-left:100px;
+    margin-top: -5px;;
+}
+#emp{
+    padding:8px;
+
+}
+.uploadbutton{
+    margin-top: 30px;;
+}
+.downloadbtn{
+    margin-left: 550px;
+    margin-top: -200px;
+}
+

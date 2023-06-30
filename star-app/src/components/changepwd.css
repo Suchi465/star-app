@@ -1,0 +1,123 @@
+.usernamePara{
+    margin-top: 10px;
+    text-align: left;
+    border-bottom: 1px solid rgb(158, 161, 240);
+    width: 50%;
+     background-color: rgba(201, 236, 246, 0);
+  }
+   #changePwdheading{
+   margin-right: 400px;
+   }
+  .changePwdForm
+  {
+    margin-top: 60px;
+  }
+  .changePwdInside1{
+    
+   position: relative;
+   text-align: left;
+   margin-left: 500px;
+   margin-top: 35px;
+
+  }
+  .changePwdInside2{
+    
+    position: relative;
+    text-align: left;
+    margin-left: 500px;
+    margin-top: 76px;
+ 
+   }
+   .editIp4{
+    position:absolute;
+     left: 1px;
+    width: 50%;
+    padding:6px;
+    margin: 4px;
+    border: none;
+    border-bottom: 1px solid rgb(141, 131, 190);
+    outline: none;
+   }
+  
+  .passwordImg2{
+    position: absolute;
+    right:370px;
+    top:30px;
+  
+  
+  }
+  .weak2{
+    margin-top: 42px;
+    width: 120px;
+    height: 5px;
+    background-color:antiquewhite; 
+    position:absolute;
+    top :40px;
+    left:1px;
+     
+  }
+  .okay2{
+    margin-top: 32px;
+    width: 120px;
+    height: 5px;
+    background-color:antiquewhite; 
+    position:absolute;
+    top:50px;
+    left:121px;
+  }
+  .strong2{
+    margin-top: 32px;
+    width: 120px;
+    height: 5px;
+    background-color:antiquewhite; 
+    position:absolute;
+    top:50px;
+    left:241px;
+  }
+  
+  .weakmsg2{
+  font-size: 12px;
+  color:crimson;
+   position: absolute;
+   top:87px;
+   left: 25px;
+   font-weight: 500;
+     
+  }
+  .okaymsg2{
+     font-size: 12px;
+   color:rgb(226, 155, 12);
+   position: absolute;
+   top:87px;
+   left: 120px;
+   font-weight: 700;
+    
+  }
+  .strongmsg2{
+   font-size: 12px;
+   color:rgb(46, 123, 25);
+   position: absolute;
+   top:85px;
+   left: 275px;
+   font-weight: bold;
+  }
+  
+  .submitchangePwd3
+  {
+    margin: 25px;
+    margin-top: 105px;
+    margin-left: 500px;
+    width: 20%;
+    font-size: 16px;
+    padding: 3px;
+    color: rgb(72, 33, 92);
+   
+  }
+
+  .error6{
+      position: absolute;
+      font-size: 14px;
+      top: 65px;
+      left: 290px;
+      color: red;
+  }

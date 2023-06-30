@@ -1,0 +1,142 @@
+
+
+  
+  .outermostdiv{
+    width: 1000;
+    height: 1000;
+    border: 1px solid white;
+  
+  
+  }
+  .container2{
+/*    
+    width: 400px;
+    height: 420px;
+    text-align: center;
+    margin: auto;
+    margin-top: 150px;
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px; */
+    width: 400px;
+    height: 420px;
+    text-align: center;
+    margin: auto;
+   border: 1px solid black;
+    padding: 20px;
+   border-radius: 10px;
+     width: 30%;
+    float: center;
+    margin-top: 10px;
+   background-color: rgba(50,50,50, 50.4);
+    color: white;
+   border: 3px solid #f1f1f1;
+    border-radius: 25px;
+     position: absolute;
+    top: 50%;
+    left: 50%;
+   transform: translate(-50%, -50%);
+    z-index: 2;
+    padding: 20px;
+    text-align: center;
+  }
+  .innerDiv2
+  {
+    margin:25px;
+    margin-bottom: 45px;
+    padding: 20px;
+    margin-right: 30px;
+    position: relative;
+    
+  }
+ .label2{
+    position: absolute;
+    left: 3px;
+    top:-3px;
+    
+    
+  }
+  .ip2{
+    position:absolute;
+    left: 1px;
+    width: 100%;
+    padding:6px;
+    margin: 4px;
+    border: none;
+    border-bottom: 1px solid rgb(141, 131, 190);
+    outline: none;
+    
+  }
+  .buttonDiv{
+    
+    position: relative;
+    
+  }  
+  .button3{
+    /* position: absolute;
+    left: 20px;
+    top:30px;
+    width: 75%;
+    padding: 3px; */
+    position: absolute;
+    left: 40px;
+    top:30px;
+    width: 75%;
+    padding: 3px;
+    border-radius: 15px;
+    background-color: orange;
+
+  
+  }
+  .error3{
+    position: absolute;
+    right: 0px;
+    font-size: 12px;
+    top:60px;
+    color: red;
+  }
+
+ 
+  #passwordImg3{
+    position: absolute;
+    right:0px;
+    top:30px;
+    color:black;
+    
+  
+  }
+.signupMsg{
+  margin-top: 220px;
+  margin-left: 80px;
+  color: red;
+}      
+
+.signupanchor{
+  text-decoration: none;
+  color: rgb(12, 8, 217);
+  font-weight: 600;
+}
+
+.linkForgotPwd
+{
+   
+   position: relative;
+   /* top: 400px;
+   left: 680px; */
+    color:white;
+}
+
+.signupLink
+{
+  position: relative;
+  /* bottom:90px;
+  left: 580px; */
+  text-decoration: none;
+  /* color: rgb(12, 8, 217); */
+  font-weight: 600;
+    color:white;
+
+}
+.bg-img{ 
+  background-image: url('../Image/com.jpg'); 
+  filter: blur(5px); height: 600px; }

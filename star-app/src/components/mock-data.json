@@ -1,0 +1,25 @@
+[
+        
+    {
+
+        "timeSheetNumber":"",
+	"resourceName":"",
+	"resourceId": 0,
+	"periodStart":"",
+	"periodEnd":"",
+	"hours":0,
+    "vertical":"",
+    "horizontal":"",
+    "subHorizontal":"",
+    "customerId":"",   
+    "customerName":"",
+    "projectId":"",
+    "projectName":"",
+    "Afternoon_Shift_days": 0,
+    "Night_Shift_Days": 0,
+    "Days_eligible_for_TA": 0,
+    "Transport_Allowance": 150,
+    "Total_Allowance": 0
+    }
+    
+]

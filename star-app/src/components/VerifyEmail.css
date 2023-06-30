@@ -1,0 +1,65 @@
+.conatinerVE{
+
+    text-align: center;
+    margin: auto;
+   border: 1px solid red;
+}
+
+.top{
+    text-align: center;
+    margin-top: 75px;
+}
+
+.keyIcon{
+         
+  margin-bottom: 25px;
+  border-radius: 45%;
+  background: rgba(205, 210, 184, 0.504);
+  padding: 2px;
+  border: 1px solid grey;
+  
+    
+}
+.infoVerify{
+    text-indent: 30px;
+    font-size: 18px;
+    word-spacing: 1px;
+}
+.Loader{
+ 
+ margin-left: 600px;
+}
+
+.verifyEmailIp
+{
+    margin-top: 30px;
+    border: none;
+    outline: none;
+    border-bottom: 1px solid #ddd;
+    margin-left: 10px;
+    font-size: 18px;
+    width: 25%;
+
+}
+
+.requestOTP
+{
+    margin-top: 50px;
+    width: 25%;
+    border-radius: 25px;
+    padding: 5px;
+    
+}
+.envelopeIcon{
+    border-bottom: 1px solid #ddd;
+    margin-top: 2px;
+}
+
+.error10
+{
+    display: block;
+    font-size: 14px;
+    color: red;
+    margin-left: 225px;
+
+}
